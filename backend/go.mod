@@ -33,7 +33,7 @@ require (
 	github.com/umputun/go-flags v1.5.1
 	go.etcd.io/bbolt v1.3.6
 	go.uber.org/goleak v1.1.10
-	golang.org/x/crypto v0.0.0-20210817164053-32db794688a5
+	golang.org/x/crypto v0.0.0-20210921155107-089bfa567519
 	golang.org/x/image v0.0.0-20210628002857-a66eb6448b8d
-	golang.org/x/net v0.0.0-20210614182718-04defd469f4e
+	golang.org/x/net v0.7.0
 )
