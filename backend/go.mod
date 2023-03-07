@@ -23,7 +23,7 @@ require (
 	github.com/gorilla/feeds v1.1.1
 	github.com/hashicorp/go-multierror v1.1.1
 	github.com/kyokomi/emoji/v2 v2.2.8
-	github.com/microcosm-cc/bluemonday v1.0.15
+	github.com/microcosm-cc/bluemonday v1.0.20
 	github.com/pkg/errors v0.9.1
 	github.com/rakyll/statik v0.1.7
 	github.com/rs/xid v1.3.0
@@ -35,5 +35,5 @@ require (
 	go.uber.org/goleak v1.1.10
 	golang.org/x/crypto v0.0.0-20210817164053-32db794688a5
 	golang.org/x/image v0.0.0-20210628002857-a66eb6448b8d
-	golang.org/x/net v0.0.0-20210614182718-04defd469f4e
+	golang.org/x/net v0.0.0-20220826154423-83b083e8dc8b
 )

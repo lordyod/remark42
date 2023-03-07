@@ -153,7 +153,7 @@ github.com/klauspost/compress/zstd/internal/xxhash
 # github.com/kyokomi/emoji/v2 v2.2.8
 ## explicit
 github.com/kyokomi/emoji/v2
-# github.com/microcosm-cc/bluemonday v1.0.15
+# github.com/microcosm-cc/bluemonday v1.0.20
 ## explicit
 github.com/microcosm-cc/bluemonday
 github.com/microcosm-cc/bluemonday/css
@@ -254,7 +254,7 @@ golang.org/x/image/math/f64
 # golang.org/x/lint v0.0.0-20200302205851-738671d3881b
 golang.org/x/lint
 golang.org/x/lint/golint
-# golang.org/x/net v0.0.0-20210614182718-04defd469f4e
+# golang.org/x/net v0.0.0-20220826154423-83b083e8dc8b
 ## explicit
 golang.org/x/net/context
 golang.org/x/net/context/ctxhttp
@@ -276,10 +276,10 @@ golang.org/x/oauth2/yandex
 # golang.org/x/sync v0.0.0-20200625203802-6e8e738ad208
 golang.org/x/sync/errgroup
 golang.org/x/sync/semaphore
-# golang.org/x/sys v0.0.0-20210615035016-665e8c7367d1
+# golang.org/x/sys v0.0.0-20220728004956-3c1f35247d10
 golang.org/x/sys/internal/unsafeheader
 golang.org/x/sys/unix
-# golang.org/x/text v0.3.6
+# golang.org/x/text v0.3.7
 golang.org/x/text/secure/bidirule
 golang.org/x/text/transform
 golang.org/x/text/unicode/bidi
